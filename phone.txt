@@ -1,1 +1,3 @@
 screentouch
+android kitkat
+gorilla glass
